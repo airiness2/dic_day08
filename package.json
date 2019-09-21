@@ -1,5 +1,9 @@
 {
   "name": "dic_day08",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "bootstrap-honoka": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
 }
